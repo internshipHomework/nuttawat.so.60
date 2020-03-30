@@ -35,10 +35,10 @@ class Program
                     string input = Console.ReadLine();
                     for (int i = 0 ; i < SKU.Count; i++ ) {
                         if ( SKU[i] == input ){
-                            string v = Price[i];
-                            int x = Convert.ToInt32(v);
-                            sum += x;
-                            Product.Add(Name[i] + "  " + v);
+                            string a = Price[i];
+                            int b = Convert.ToInt32(a);
+                            sum += b;
+                            Product.Add(Name[i] + "  " + a);
 
                         }
                       

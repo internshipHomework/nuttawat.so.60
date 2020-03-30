@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nutty/c/Homework09/Homework09.csproj": {}
+    "/Users/nutty/c/nuttawat.so.60/Homework09/Homework09.csproj": {}
   },
   "projects": {
-    "/Users/nutty/c/Homework09/Homework09.csproj": {
+    "/Users/nutty/c/nuttawat.so.60/Homework09/Homework09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nutty/c/Homework09/Homework09.csproj",
+        "projectUniqueName": "/Users/nutty/c/nuttawat.so.60/Homework09/Homework09.csproj",
         "projectName": "Homework09",
-        "projectPath": "/Users/nutty/c/Homework09/Homework09.csproj",
+        "projectPath": "/Users/nutty/c/nuttawat.so.60/Homework09/Homework09.csproj",
         "packagesPath": "/Users/nutty/.nuget/packages/",
-        "outputPath": "/Users/nutty/c/Homework09/obj/",
+        "outputPath": "/Users/nutty/c/nuttawat.so.60/Homework09/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nutty/.nuget/NuGet/NuGet.Config"

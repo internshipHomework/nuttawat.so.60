@@ -10,3 +10,15 @@
 /Users/nutty/c/Homework09/obj/Debug/netcoreapp3.1/Homework09.dll
 /Users/nutty/c/Homework09/obj/Debug/netcoreapp3.1/Homework09.pdb
 /Users/nutty/c/Homework09/obj/Debug/netcoreapp3.1/Homework09.genruntimeconfig.cache
+/Users/nutty/c/nuttawat.so.60/Homework09/bin/Debug/netcoreapp3.1/Homework09.deps.json
+/Users/nutty/c/nuttawat.so.60/Homework09/bin/Debug/netcoreapp3.1/Homework09.runtimeconfig.json
+/Users/nutty/c/nuttawat.so.60/Homework09/bin/Debug/netcoreapp3.1/Homework09.runtimeconfig.dev.json
+/Users/nutty/c/nuttawat.so.60/Homework09/bin/Debug/netcoreapp3.1/Homework09.dll
+/Users/nutty/c/nuttawat.so.60/Homework09/bin/Debug/netcoreapp3.1/Homework09.pdb
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.csprojAssemblyReference.cache
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.csproj.CoreCompileInputs.cache
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.AssemblyInfoInputs.cache
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.AssemblyInfo.cs
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.dll
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.pdb
+/Users/nutty/c/nuttawat.so.60/Homework09/obj/Debug/netcoreapp3.1/Homework09.genruntimeconfig.cache
