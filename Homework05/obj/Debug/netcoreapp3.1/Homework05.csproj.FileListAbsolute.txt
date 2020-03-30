@@ -1,0 +1,12 @@
+/Users/nutty/c/Homework05/bin/Debug/netcoreapp3.1/Homework05.deps.json
+/Users/nutty/c/Homework05/bin/Debug/netcoreapp3.1/Homework05.runtimeconfig.json
+/Users/nutty/c/Homework05/bin/Debug/netcoreapp3.1/Homework05.runtimeconfig.dev.json
+/Users/nutty/c/Homework05/bin/Debug/netcoreapp3.1/Homework05.dll
+/Users/nutty/c/Homework05/bin/Debug/netcoreapp3.1/Homework05.pdb
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.csprojAssemblyReference.cache
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.csproj.CoreCompileInputs.cache
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.AssemblyInfoInputs.cache
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.AssemblyInfo.cs
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.dll
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.pdb
+/Users/nutty/c/Homework05/obj/Debug/netcoreapp3.1/Homework05.genruntimeconfig.cache
