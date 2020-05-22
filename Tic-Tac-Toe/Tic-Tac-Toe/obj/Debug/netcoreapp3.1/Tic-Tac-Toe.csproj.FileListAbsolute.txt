@@ -1,0 +1,12 @@
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.deps.json
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.runtimeconfig.json
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.runtimeconfig.dev.json
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.dll
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.pdb
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.csprojAssemblyReference.cache
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.AssemblyInfoInputs.cache
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.AssemblyInfo.cs
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.dll
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.pdb
+/Users/nutty/game/Tic-Tac-Toe/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.genruntimeconfig.cache
